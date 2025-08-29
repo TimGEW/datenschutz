@@ -289,6 +289,33 @@ Der Nutzer hat jederzeit die Möglichkeit, seine Einwilligung zur Verarbeitung d
 
 Alle personenbezogenen Daten, die im Zuge der Kontaktaufnahme gespeichert wurden, werden in diesem Fall gelöscht.
 
+### Einsatz von Adform
+
+Diese Website nutzt Dienste der Adform A/S, Wildersgade 10B, 1408 Copenhagen, Dänemark.
+
+Wir verwenden Adform zur Analyse des Nutzerverhaltens, zur Ausspielung personalisierter Werbung sowie zur Messung von Kampagnenerfolgen (Conversion Tracking). Dabei werden Informationen über Ihre Nutzung unserer Website verarbeitet, um Ihnen auf anderen Webseiten interessenbezogene Werbung anzeigen zu können (Retargeting).
+
+Verarbeitete Daten:
+*	IP-Adresse (ggf. anonymisiert)
+*	Cookie-ID / Mobile Advertising ID
+*	Browser- und Gerätedaten
+*	Besuchte Seiten und Interaktionen
+*	Zeitstempel und Referrer-URL
+*	Geostandortdaten (z. B. Stadt, Region)
+
+Die Verarbeitung erfolgt auf Grundlage Ihrer Einwilligung gemäß Art. 6 Abs. 1 S. 1 lit. a DSGVO. Sie können Ihre Einwilligung jederzeit über unser Consent Management Tool widerrufen.
+
+Adform setzt Cookies, um Nutzer wiederzuerkennen und deren Verhalten zu analysieren. Die Cookies haben eine maximale Lebensdauer von 60 Tagen. Weitere Informationen zu den eingesetzten Cookies finden Sie unter:
+
+https://site.adform.com/privacy-center/platform-privacy/product-and-services-privacy-policy/
+
+Adform kann Daten an Partnerunternehmen und Server außerhalb der EU übermitteln. Dabei werden die Vorgaben der DSGVO eingehalten. Adform ist Teil des IAB Transparency & Consent Frameworks.
+
+Sie können der Verarbeitung jederzeit widersprechen oder Ihre Einwilligung widerrufen. Nutzen Sie dazu die Einstellungen in unserem Cookie-Banner oder besuchen Sie:
+https://site.adform.com/privacy-center/platform-privacy/right-to-be-forgotten/
+
+
+
 ### Big Blue Button
 
 Auf der Internetseite https://bbb.gew.de ist die Big Blue Button (BBB, https://github.com/bigbluebutton/bigbluebutton) Videokonferenz eingebunden, welche verwendet wird, um u.a. Telefonkonferenzen, Online-Meetings, Videokonferenzen und/oder Online-Seminare (nachfolgend: Online-Meetings) durchzuführen.
